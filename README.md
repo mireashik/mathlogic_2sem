@@ -10,3 +10,4 @@
 ![6](https://github.com/mireashik/mathlogic_2sem/assets/123753819/5756976d-6c1a-4fd7-9d01-16eec59641be)
 
 ## ДНФ/КНФ (СНФ, МНФ)
+![7](https://github.com/mireashik/mathlogic_2sem/assets/123753819/8c5598e3-c488-40e7-9e08-9ef638f60951)
