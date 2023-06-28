@@ -27,3 +27,6 @@
 ![21/22](https://github.com/mireashik/mathlogic_2sem/assets/123753819/6dca9b85-978d-4651-8342-0c5b04a8bb16)
 ![23](https://github.com/mireashik/mathlogic_2sem/assets/123753819/65b2e724-7c18-4656-92bf-31ea65e2d59a)
 ![24](https://github.com/mireashik/mathlogic_2sem/assets/123753819/2bb3d0e1-d037-4333-af09-d6ab009553ea)
+
+## Графы
+Позволю себе пропустить, есть типовик :)
