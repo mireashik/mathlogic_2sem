@@ -1,5 +1,8 @@
 ### Полезные ссылки:
 - https://github.com/Viktorian76/MLaAT
+- ### Где-то здесь будет типовик
+
+
 ## Общая алгебра множеств (булева)
 ![1](https://github.com/mireashik/mathlogic_2sem/assets/123753819/32c1382d-d912-402f-b4a8-ee39e2b28720)
 ![1](https://github.com/mireashik/mathlogic_2sem/assets/123753819/15c36911-64c2-4c8d-8566-0b404d0feabb)
