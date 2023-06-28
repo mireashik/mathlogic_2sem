@@ -34,4 +34,4 @@
 ## Графы
 Позволю себе пропустить, есть типовик :)
 
-![изображение](https://github.com/mireashik/mathlogic_2sem/assets/123753819/8c6d8943-8df6-474b-8d12-65b46c5b2b6d)
+![30](https://github.com/mireashik/mathlogic_2sem/assets/123753819/87b611a4-67ed-4b0c-8224-9a995c08b7e5)
