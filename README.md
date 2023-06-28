@@ -21,3 +21,4 @@
 ![14](https://github.com/mireashik/mathlogic_2sem/assets/123753819/49f5092e-4895-41ff-b2ca-732765774278)
 ![15](https://github.com/mireashik/mathlogic_2sem/assets/123753819/9273cf83-f556-465c-aab0-6b4433e549f5)
 ![16](https://github.com/mireashik/mathlogic_2sem/assets/123753819/87f11e47-3b3d-4706-804a-a3ef1240bafb)
+![17](https://github.com/mireashik/mathlogic_2sem/assets/123753819/2febaf9d-d501-458c-b8da-1c2b031143fd)
