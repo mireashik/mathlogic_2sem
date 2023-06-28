@@ -15,3 +15,6 @@
 ![9](https://github.com/mireashik/mathlogic_2sem/assets/123753819/c18eb5a7-777d-4697-8a64-735ee4d41ed1)
 ![10](https://github.com/mireashik/mathlogic_2sem/assets/123753819/4dbdafee-f0a6-4243-b6d8-65ee29cea7c5)
 ![11](https://github.com/mireashik/mathlogic_2sem/assets/123753819/1b1352b1-e5b7-4127-ae0a-f942e512ca33)
+
+## Полнота системы, замкнутый классы, теорема Поста
+![12](https://github.com/mireashik/mathlogic_2sem/assets/123753819/0fd83686-25f7-471f-8f7c-7f0e792853f3)
