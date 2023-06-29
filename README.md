@@ -49,6 +49,8 @@
 ## K-значные логики
 ![33](https://github.com/mireashik/mathlogic_2sem/assets/123753819/1d78c6aa-9f02-4330-9bcf-672d2f3bd903)
 ![34](https://github.com/mireashik/mathlogic_2sem/assets/123753819/1f2cdac2-405f-46fd-82c6-75ee885fd62d)
+![изображение](https://github.com/mireashik/mathlogic_2sem/assets/123753819/792396ca-a9a0-4c4c-9972-64370cd193bb)
+
 ![35](https://github.com/mireashik/mathlogic_2sem/assets/123753819/b87bda78-01bd-4a43-9d73-822f1135bda4)
 
 ## Другое (что оно тут вообще забыло?)
